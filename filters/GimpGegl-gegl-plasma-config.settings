@@ -1,0 +1,24 @@
+# settings
+
+(GimpGegl-gegl-plasma-config "2020-11-28 19:17:03"
+    (time 1606601823)
+    (turbulence 1)
+    (seed 0))
+(GimpGegl-gegl-plasma-config "2020-06-16 17:03:00"
+    (time 1592337780)
+    (turbulence 2.8279999999999998)
+    (seed 0))
+(GimpGegl-gegl-plasma-config "2020-06-16 05:38:03"
+    (time 1592296683)
+    (turbulence 1.8109999999999999)
+    (seed 0))
+(GimpGegl-gegl-plasma-config "2020-05-28 20:49:15"
+    (time 1590709755)
+    (turbulence 7)
+    (seed 0))
+(GimpGegl-gegl-plasma-config "2020-05-27 02:26:12"
+    (time 1590557172)
+    (turbulence 3.073)
+    (seed 0))
+
+# end of settings

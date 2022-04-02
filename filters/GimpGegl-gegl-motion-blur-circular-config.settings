@@ -1,0 +1,29 @@
+# settings
+
+(GimpGegl-gegl-motion-blur-circular-config "2021-01-23 16:29:53"
+    (time 1611430193)
+    (center-x 0.5)
+    (center-y 0.5)
+    (angle 5))
+(GimpGegl-gegl-motion-blur-circular-config "2021-01-23 16:27:42"
+    (time 1611430062)
+    (center-x 0.5)
+    (center-y 0.5)
+    (angle 14.94))
+(GimpGegl-gegl-motion-blur-circular-config "2020-06-24 01:40:48"
+    (time 1592973648)
+    (center-x 0.60678642714570863)
+    (center-y 0.53194444444444444)
+    (angle 0.5))
+(GimpGegl-gegl-motion-blur-circular-config "2020-04-13 18:27:37"
+    (time 1586813257)
+    (center-x 0.57291666666666663)
+    (center-y 0.15789473684210525)
+    (angle 2.6025622024998061))
+(GimpGegl-gegl-motion-blur-circular-config "2020-04-13 16:11:02"
+    (time 1586805062)
+    (center-x 0.5)
+    (center-y 0.5)
+    (angle 3.1299999999999999))
+
+# end of settings

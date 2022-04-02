@@ -1,0 +1,20 @@
+# settings
+
+(GimpGegl-gegl-lens-flare-config "2020-09-13 02:06:13"
+    (time 1599973573)
+    (pos-x 0.54300000000000004)
+    (pos-y 0.221))
+(GimpGegl-gegl-lens-flare-config "2020-02-10 19:43:55"
+    (time 1581374635)
+    (pos-x 0.69374999999999998)
+    (pos-y 0.70925925925925926))
+(GimpGegl-gegl-lens-flare-config "2020-02-10 19:13:38"
+    (time 1581372818)
+    (pos-x 0.71458333333333335)
+    (pos-y 0.5981481481481481))
+(GimpGegl-gegl-lens-flare-config "2020-02-10 19:12:47"
+    (time 1581372767)
+    (pos-x 0.68437499999999996)
+    (pos-y 0.34814814814814815))
+
+# end of settings

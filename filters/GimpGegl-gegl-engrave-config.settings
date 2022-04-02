@@ -1,0 +1,24 @@
+# settings
+
+(GimpGegl-gegl-engrave-config "2020-09-27 14:50:11"
+    (time 1601229011)
+    (row-height 5)
+    (limit no))
+(GimpGegl-gegl-engrave-config "2020-09-27 14:39:57"
+    (time 1601228397)
+    (row-height 7)
+    (limit no))
+(GimpGegl-gegl-engrave-config "2020-09-23 14:46:54"
+    (time 1600883214)
+    (row-height 4)
+    (limit no))
+(GimpGegl-gegl-engrave-config "2020-09-23 14:26:59"
+    (time 1600882019)
+    (row-height 3)
+    (limit no))
+(GimpGegl-gegl-engrave-config "2020-09-13 01:49:12"
+    (time 1599972552)
+    (row-height 10)
+    (limit no))
+
+# end of settings

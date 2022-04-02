@@ -1,0 +1,12 @@
+# settings
+
+(GimpGegl-gegl-panorama-projection-config "2020-04-21 00:55:43"
+    (time 1587441343)
+    (pan -184.81999999999999)
+    (tilt -17.530000000000001)
+    (spin -5.8700000000000001)
+    (zoom 25.899999999999999)
+    (inverse no)
+    (sampler-type nearest))
+
+# end of settings

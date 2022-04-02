@@ -1,0 +1,20 @@
+# settings
+
+(GimpGegl-gegl-snn-mean-config "2020-12-13 21:48:35"
+    (time 1607906915)
+    (radius 4)
+    (pairs 2))
+(GimpGegl-gegl-snn-mean-config "2020-12-13 21:48:30"
+    (time 1607906910)
+    (radius 3)
+    (pairs 2))
+(GimpGegl-gegl-snn-mean-config "2020-12-13 21:48:05"
+    (time 1607906885)
+    (radius 10)
+    (pairs 2))
+(GimpGegl-gegl-snn-mean-config "2020-01-27 01:05:07"
+    (time 1580097907)
+    (radius 8)
+    (pairs 2))
+
+# end of settings

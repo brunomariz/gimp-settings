@@ -1,0 +1,33 @@
+# GIMP tool preset file
+
+(icon-name "gimp-tool-paintbrush")
+(name "WavesOutlineUnlocked")
+(tool-options "GimpPaintOptions"
+    (tool "gimp-paintbrush-tool")
+    (brush "2. Hardness 075")
+    (dynamics "Dynamics Off")
+    (gradient "Neon Yellow")
+    (palette "Bears")
+    (brush-size 3)
+    (brush-spacing 0.089999999999999997)
+    (brush-hardness 0.78299999999999981)
+    (brush-force 0.92000000000000004)
+    (fade-length 109)
+    (fade-repeat truncate)
+    (gradient-reverse yes)
+    (gradient-blend-color-space rgb-linear)
+    (gradient-repeat triangular)
+    (brush-view-type list)
+    (use-smoothing yes)
+    (smoothing-quality 100)
+    (smoothing-factor 639.10000000000002))
+(use-fg-bg no)
+(use-brush yes)
+(use-dynamics yes)
+(use-mypaint-brush no)
+(use-gradient no)
+(use-pattern no)
+(use-palette no)
+(use-font no)
+
+# end of GIMP tool preset file

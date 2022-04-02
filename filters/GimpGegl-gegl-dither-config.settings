@@ -1,0 +1,20 @@
+# settings
+
+(GimpGegl-gegl-dither-config "2021-05-26 14:55:05"
+    (time 1622051705)
+    (red-levels 6)
+    (green-levels 7)
+    (blue-levels 6)
+    (alpha-levels 256)
+    (dither-method floyd-steinberg)
+    (seed 0))
+(GimpGegl-gegl-dither-config "2021-05-26 14:54:59"
+    (time 1622051699)
+    (red-levels 2)
+    (green-levels 1517)
+    (blue-levels 1297)
+    (alpha-levels 2)
+    (dither-method floyd-steinberg)
+    (seed 0))
+
+# end of settings

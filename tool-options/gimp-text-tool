@@ -1,0 +1,10 @@
+# GIMP gimp-text-tool options
+
+(palette "partido FODA")
+(font "LeviBrush")
+(font-size 228)
+(hint-style none)
+(line-spacing -30)
+(font-view-size 22)
+
+# end of gimp-text-tool options

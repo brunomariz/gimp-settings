@@ -1,0 +1,54 @@
+# settings
+
+(GimpGegl-gegl-color-to-alpha-config "2021-10-17 17:15:44"
+    (time 1634501744)
+    (color (color-rgba 0 0 0 1))
+    (transparency-threshold 0)
+    (opacity-threshold 1))
+(GimpGegl-gegl-color-to-alpha-config "2021-10-15 12:23:16"
+    (time 1634311396)
+    (color (color-rgba 1 1 1 1))
+    (transparency-threshold 0)
+    (opacity-threshold 1))
+(GimpGegl-gegl-color-to-alpha-config "2021-10-05 10:08:03"
+    (time 1633439283)
+    (color (color-rgba 0.6207348108291626 0.81785053014755249 0.92245131731033325 1))
+    (transparency-threshold 0.25)
+    (opacity-threshold 1))
+(GimpGegl-gegl-color-to-alpha-config "2021-03-28 00:55:43"
+    (time 1616903743)
+    (color (color-rgba 0.18474128842353821 0.37016966938972473 0.1714843213558197 0.78215289115905762))
+    (transparency-threshold 0.77900000000000003)
+    (opacity-threshold 0.90900000000000003))
+(GimpGegl-gegl-color-to-alpha-config "2021-03-28 00:55:28"
+    (time 1616903728)
+    (color (color-rgba 0.074580959975719452 0.37420222163200378 0.13369309902191162 1))
+    (transparency-threshold 0)
+    (opacity-threshold 1))
+(GimpGegl-gegl-color-to-alpha-config "2020-11-12 19:19:22"
+    (time 1605219562)
+    (color (color-rgba 0.040480278432369232 0.040480293333530426 0.040480278432369232 1))
+    (transparency-threshold 0)
+    (opacity-threshold 1))
+(GimpGegl-gegl-color-to-alpha-config "2020-08-28 16:02:02"
+    (time 1598641322)
+    (color (color-rgba 1 1 1 1))
+    (transparency-threshold 0.19800000000000001)
+    (opacity-threshold 0.54500000000000004))
+(GimpGegl-gegl-color-to-alpha-config "2020-08-14 16:50:48"
+    (time 1597434648)
+    (color (color-rgba 1 0.087248322147650992 0.087248322147650992 1))
+    (transparency-threshold 0)
+    (opacity-threshold 1))
+(GimpGegl-gegl-color-to-alpha-config "2020-06-20 15:32:11"
+    (time 1592677931)
+    (color (color-rgba 0.4793815016746521 0.45658701658248901 0.42417865991592407 1))
+    (transparency-threshold 0.078)
+    (opacity-threshold 0.39000000000000001))
+(GimpGegl-gegl-color-to-alpha-config "2020-05-08 13:50:34"
+    (time 1588956634)
+    (color (color-rgba 1 1 1 1))
+    (transparency-threshold 0.13300000000000001)
+    (opacity-threshold 1))
+
+# end of settings

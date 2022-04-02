@@ -1,0 +1,58 @@
+# settings
+
+(GimpGegl-gegl-grid-config "2021-03-04 15:08:34"
+    (time 1614881314)
+    (x 10000)
+    (y 32)
+    (x-offset 0)
+    (y-offset 0)
+    (line-width 4)
+    (line-height 4)
+    (line-color (color-rgba 0 0 0 1)))
+(GimpGegl-gegl-grid-config "2021-03-04 14:37:54"
+    (time 1614879474)
+    (x 10000)
+    (y 50)
+    (x-offset 0)
+    (y-offset 0)
+    (line-width 4)
+    (line-height 4)
+    (line-color (color-rgba 0 0 0 1)))
+(GimpGegl-gegl-grid-config "2020-04-10 02:52:25"
+    (time 1586497945)
+    (x 78)
+    (y 2000)
+    (x-offset 0)
+    (y-offset 0)
+    (line-width 4)
+    (line-height 4)
+    (line-color (color-rgba 1 1 1 1)))
+(GimpGegl-gegl-grid-config "2020-04-10 02:50:50"
+    (time 1586497850)
+    (x 77)
+    (y 77)
+    (x-offset 0)
+    (y-offset 0)
+    (line-width 3)
+    (line-height 3)
+    (line-color (color-rgba 1 1 1 1)))
+(GimpGegl-gegl-grid-config "2020-02-10 19:37:05"
+    (time 1581374225)
+    (x 91)
+    (y 91)
+    (x-offset 0)
+    (y-offset 0)
+    (line-width 5)
+    (line-height 5)
+    (line-color (color-rgba 1 0 1 1)))
+(GimpGegl-gegl-grid-config "2020-02-10 18:59:48"
+    (time 1581371988)
+    (x 120)
+    (y 120)
+    (x-offset 0)
+    (y-offset 0)
+    (line-width 10)
+    (line-height 10)
+    (line-color (color-rgba 1.5975638628005981 0 1.5519191810062956 1)))
+
+# end of settings

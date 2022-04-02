@@ -1,0 +1,34 @@
+# settings
+
+(GimpGegl-gegl-cubism-config "2020-09-13 02:06:39"
+    (time 1599973599)
+    (tile-size 3.3500000000000001)
+    (tile-saturation 4.2729999999999997)
+    (bg-color (color-rgba 0 0 0 0))
+    (seed 0))
+(GimpGegl-gegl-cubism-config "2020-08-14 17:13:57"
+    (time 1597436037)
+    (tile-size 10)
+    (tile-saturation 2.5)
+    (bg-color (color-rgba 0 0 0 0))
+    (seed 0))
+(GimpGegl-gegl-cubism-config "2020-06-18 00:30:07"
+    (time 1592451007)
+    (tile-size 4.1699999999999999)
+    (tile-saturation 2.5)
+    (bg-color (color-rgba 0 0 0 0))
+    (seed 0))
+(GimpGegl-gegl-cubism-config "2020-05-20 00:54:26"
+    (time 1589946866)
+    (tile-size 17.859999999999999)
+    (tile-saturation 2.2669999999999999)
+    (bg-color (color-rgba 0 0 0 0))
+    (seed 0))
+(GimpGegl-gegl-cubism-config "2020-04-11 17:36:41"
+    (time 1586637401)
+    (tile-size 5.9500000000000002)
+    (tile-saturation 4.6219999999999999)
+    (bg-color (color-rgba 0 0 0 0))
+    (seed 0))
+
+# end of settings

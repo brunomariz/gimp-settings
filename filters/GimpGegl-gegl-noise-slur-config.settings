@@ -1,0 +1,24 @@
+# settings
+
+(GimpGegl-gegl-noise-slur-config "2021-04-14 22:20:01"
+    (time 1618449601)
+    (pct-random 53.490000000000002)
+    (repeat 100)
+    (seed 0))
+(GimpGegl-gegl-noise-slur-config "2021-04-14 22:19:46"
+    (time 1618449586)
+    (pct-random 50)
+    (repeat 100)
+    (seed 0))
+(GimpGegl-gegl-noise-slur-config "2020-09-23 14:33:11"
+    (time 1600882391)
+    (pct-random 50)
+    (repeat 1)
+    (seed 0))
+(GimpGegl-gegl-noise-slur-config "2020-05-03 03:20:11"
+    (time 1588486811)
+    (pct-random 100)
+    (repeat 5)
+    (seed 0))
+
+# end of settings

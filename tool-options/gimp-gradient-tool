@@ -1,0 +1,13 @@
+# GIMP gimp-gradient-tool options
+
+(gradient "FG to BG (RGB)")
+(brush-size 51)
+(brush-hardness 0.5)
+(gradient-reverse yes)
+(gradient-blend-color-space rgb-linear)
+(gradient-type radial)
+(supersample-depth 7)
+(instant yes)
+(modify-active yes)
+
+# end of gimp-gradient-tool options

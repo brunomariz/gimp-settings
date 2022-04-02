@@ -1,0 +1,20 @@
+# settings
+
+(GimpGegl-gegl-mosaic-config "2020-10-10 17:01:40"
+    (time 1602360100)
+    (tile-type hexagons)
+    (tile-size 10.74)
+    (tile-height 4)
+    (tile-neatness 0)
+    (color-variation 0.14499999999999999)
+    (color-averaging yes)
+    (tile-surface no)
+    (tile-allow-split yes)
+    (tile-spacing 1.5800000000000001)
+    (joints-color (color-rgba 0 0 0 1))
+    (light-color (color-rgba 1 1 1 1))
+    (light-dir 135)
+    (antialiasing yes)
+    (seed 0))
+
+# end of settings

@@ -1,0 +1,46 @@
+# settings
+
+(GimpGegl-gegl-perlin-noise-config "2020-10-17 03:36:40"
+    (time 1602916600)
+    (alpha 1.2)
+    (scale 1.8)
+    (zoff -1)
+    (n 3))
+(GimpGegl-gegl-perlin-noise-config "2020-05-28 20:48:52"
+    (time 1590709732)
+    (alpha 1.2)
+    (scale -0.29099999999999998)
+    (zoff 4294967295)
+    (n 3))
+(GimpGegl-gegl-perlin-noise-config "2020-05-22 18:27:58"
+    (time 1590182878)
+    (alpha 1.091)
+    (scale 3.3140000000000001)
+    (zoff 3.7090000000000001)
+    (n 18))
+(GimpGegl-gegl-perlin-noise-config "2020-04-11 02:35:52"
+    (time 1586583352)
+    (alpha -0.023)
+    (scale 1.8)
+    (zoff 4294967295)
+    (n 3))
+(GimpGegl-gegl-perlin-noise-config "2020-04-10 00:17:15"
+    (time 1586488635)
+    (alpha 1.2)
+    (scale 2.5579999999999998)
+    (zoff 4294967295)
+    (n 3))
+(GimpGegl-gegl-perlin-noise-config "2020-04-10 00:16:36"
+    (time 1586488596)
+    (alpha 1.2)
+    (scale 1.8)
+    (zoff 4294967295)
+    (n 3))
+(GimpGegl-gegl-perlin-noise-config "2020-04-10 00:07:42"
+    (time 1586488062)
+    (alpha 1.2)
+    (scale 4.2439999999999998)
+    (zoff 4294967295)
+    (n 5))
+
+# end of settings

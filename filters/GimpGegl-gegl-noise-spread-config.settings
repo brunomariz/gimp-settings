@@ -1,0 +1,54 @@
+# settings
+
+(GimpGegl-gegl-noise-spread-config "2021-11-30 15:56:45"
+    (time 1638298605)
+    (amount-x 3)
+    (amount-y 3)
+    (seed 0))
+(GimpGegl-gegl-noise-spread-config "2021-11-25 11:58:25"
+    (time 1637852305)
+    (amount-x 72)
+    (amount-y 72)
+    (seed 0))
+(GimpGegl-gegl-noise-spread-config "2021-11-25 11:58:09"
+    (time 1637852289)
+    (amount-x 34)
+    (amount-y 34)
+    (seed 0))
+(GimpGegl-gegl-noise-spread-config "2021-09-13 18:26:40"
+    (time 1631568400)
+    (amount-x 95)
+    (amount-y 95)
+    (seed 0))
+(GimpGegl-gegl-noise-spread-config "2021-09-13 18:26:04"
+    (time 1631568364)
+    (amount-x 5)
+    (amount-y 5)
+    (seed 0))
+(GimpGegl-gegl-noise-spread-config "2021-09-09 20:19:14"
+    (time 1631229554)
+    (amount-x 0)
+    (amount-y 0)
+    (seed 0))
+(GimpGegl-gegl-noise-spread-config "2021-09-02 00:35:13"
+    (time 1630553713)
+    (amount-x 41)
+    (amount-y 41)
+    (seed 0))
+(GimpGegl-gegl-noise-spread-config "2021-09-02 00:31:03"
+    (time 1630553463)
+    (amount-x 105)
+    (amount-y 105)
+    (seed 0))
+(GimpGegl-gegl-noise-spread-config "2021-09-02 00:30:21"
+    (time 1630553421)
+    (amount-x 156)
+    (amount-y 156)
+    (seed 0))
+(GimpGegl-gegl-noise-spread-config "2021-09-02 00:17:49"
+    (time 1630552669)
+    (amount-x 118)
+    (amount-y 118)
+    (seed 0))
+
+# end of settings

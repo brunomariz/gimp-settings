@@ -1,0 +1,54 @@
+# settings
+
+(GimpGegl-gegl-noise-hurl-config "2021-05-09 00:42:28"
+    (time 1620531748)
+    (pct-random 50)
+    (repeat 1)
+    (seed 0))
+(GimpGegl-gegl-noise-hurl-config "2020-11-23 22:48:18"
+    (time 1606182498)
+    (pct-random 1.1599999999999999)
+    (repeat 1)
+    (seed 0))
+(GimpGegl-gegl-noise-hurl-config "2020-11-23 22:47:58"
+    (time 1606182478)
+    (pct-random 16.280000000000001)
+    (repeat 1)
+    (seed 0))
+(GimpGegl-gegl-noise-hurl-config "2020-10-27 02:02:31"
+    (time 1603774951)
+    (pct-random 25.579999999999998)
+    (repeat 1)
+    (seed 0))
+(GimpGegl-gegl-noise-hurl-config "2020-10-27 01:48:10"
+    (time 1603774090)
+    (pct-random 100)
+    (repeat 1)
+    (seed 0))
+(GimpGegl-gegl-noise-hurl-config "2020-10-27 01:44:24"
+    (time 1603773864)
+    (pct-random 79.939999999999998)
+    (repeat 1)
+    (seed 0))
+(GimpGegl-gegl-noise-hurl-config "2020-10-05 13:45:09"
+    (time 1601916309)
+    (pct-random 100)
+    (repeat 100)
+    (seed 0))
+(GimpGegl-gegl-noise-hurl-config "2020-10-05 13:44:57"
+    (time 1601916297)
+    (pct-random 100)
+    (repeat 8)
+    (seed 0))
+(GimpGegl-gegl-noise-hurl-config "2020-09-24 00:59:47"
+    (time 1600919987)
+    (pct-random 59.009999999999998)
+    (repeat 1)
+    (seed 0))
+(GimpGegl-gegl-noise-hurl-config "2020-09-24 00:59:17"
+    (time 1600919957)
+    (pct-random 14.529999999999999)
+    (repeat 1)
+    (seed 0))
+
+# end of settings

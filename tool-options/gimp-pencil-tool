@@ -1,0 +1,18 @@
+# GIMP gimp-pencil-tool options
+
+(brush "2. Hardness 050")
+(dynamics "Dynamics Off")
+(gradient "FG to BG (RGB)")
+(palette "partido FODA")
+(brush-size 4)
+(brush-hardness 0.5)
+(brush-force 0.62)
+(dynamics-expanded yes)
+(fade-length 109)
+(fade-repeat truncate)
+(fade-unit percent)
+(gradient-reverse yes)
+(gradient-blend-color-space rgb-linear)
+(smoothing-quality 68)
+
+# end of gimp-pencil-tool options

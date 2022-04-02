@@ -1,0 +1,12 @@
+# settings
+
+(GimpGegl-gegl-illusion-config "2020-04-21 00:52:11"
+    (time 1587441131)
+    (division 8)
+    (illusion-type type1))
+(GimpGegl-gegl-illusion-config "2020-04-21 00:51:42"
+    (time 1587441102)
+    (division 6)
+    (illusion-type type1))
+
+# end of settings

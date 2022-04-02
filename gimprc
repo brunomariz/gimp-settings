@@ -1,0 +1,56 @@
+# GIMP gimprc
+# 
+# This is your personal gimprc file.  Any variable defined in this file takes
+# precedence over the value defined in the system-wide gimprc: C:\Program
+# Files\GIMP 2\etc\gimp\2.0\gimprc
+# Most values can be set within GIMP by changing some options in the
+# Preferences dialog.
+
+(language "en_US")
+(plug-in-path "${gimp_dir}\\plug-ins;${gimp_plug_in_dir}\\plug-ins;C:\\Users\\bruno\\Documents\\GIMP\\MeusPlug-ins")
+(default-grid
+    (style solid)
+    (fgcolor (color-rgba 0 0 0 1))
+    (bgcolor (color-rgba 1 1 1 1))
+    (xspacing 1.1000000000000001)
+    (yspacing 1.1000000000000001)
+    (spacing-unit inches)
+    (xoffset 0)
+    (yoffset 0)
+    (offset-unit inches))
+(import-raw-plug-in "${gimp_plug_in_dir}\\plug-ins\\file-darktable\\file-darktable.exe")
+(check-update-timestamp 1641823371)
+(last-release-timestamp 1639872000)
+(last-known-release "2.10.30")
+(monitor-xresolution 142)
+(monitor-yresolution 142)
+(toolbox-groups no)
+(user-manual-online yes)
+(color-profile-policy keep)
+(image-resize-resize-text-layers yes)
+(layer-new-name "]")
+(selection-grow-radius 10)
+(selection-border-radius 2)
+(fill-options
+    (style solid)
+    (antialias yes)
+    (feather no)
+    (feather-radius 10))
+(stroke-options
+    (style solid)
+    (antialias yes)
+    (feather no)
+    (feather-radius 10)
+    (method paint-method)
+    (width 20)
+    (unit pixels)
+    (cap-style square)
+    (join-style miter)
+    (miter-limit 7.1428571428571423)
+    (dash-offset 0)
+    (dash-info 0)
+    (emulate-brush-dynamics yes))
+(script-fu-path "${gimp_dir}\\scripts;${gimp_data_dir}\\scripts;D:\\AsMinhasCoisas\\gimp\\scripts")
+
+
+# end of gimprc

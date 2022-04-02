@@ -1,0 +1,44 @@
+# settings
+
+(GimpGegl-gegl-edge-neon-config "2021-04-20 19:59:22"
+    (time 1618959562)
+    (radius 4.2249999999999996)
+    (amount 0.83699999999999997))
+(GimpGegl-gegl-edge-neon-config "2021-03-31 18:07:16"
+    (time 1617224836)
+    (radius 5)
+    (amount 0))
+(GimpGegl-gegl-edge-neon-config "2021-02-25 00:24:10"
+    (time 1614223450)
+    (radius 0.33100000000000002)
+    (amount 3.0350000000000001))
+(GimpGegl-gegl-edge-neon-config "2021-01-23 16:25:08"
+    (time 1611429908)
+    (radius 220.273)
+    (amount 1.788))
+(GimpGegl-gegl-edge-neon-config "2020-10-16 19:16:11"
+    (time 1602886571)
+    (radius 0.54800000000000004)
+    (amount 4.1420000000000003))
+(GimpGegl-gegl-edge-neon-config "2020-10-15 23:50:10"
+    (time 1602816610)
+    (radius 3.5760000000000001)
+    (amount 0.192))
+(GimpGegl-gegl-edge-neon-config "2020-10-15 16:45:07"
+    (time 1602791107)
+    (radius 6.6130000000000004)
+    (amount 0.54900000000000004))
+(GimpGegl-gegl-edge-neon-config "2020-10-10 17:09:23"
+    (time 1602360563)
+    (radius 15.576000000000001)
+    (amount 0.017000000000000001))
+(GimpGegl-gegl-edge-neon-config "2020-10-10 17:09:06"
+    (time 1602360546)
+    (radius 5.4909999999999997)
+    (amount 0))
+(GimpGegl-gegl-edge-neon-config "2020-10-10 17:08:46"
+    (time 1602360526)
+    (radius 8.0470000000000006)
+    (amount 0))
+
+# end of settings

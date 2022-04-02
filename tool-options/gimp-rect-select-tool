@@ -1,0 +1,6 @@
+# GIMP gimp-rect-select-tool options
+
+(feather-radius 32)
+(corner-radius 14.9)
+
+# end of gimp-rect-select-tool options

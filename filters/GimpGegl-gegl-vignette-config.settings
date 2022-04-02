@@ -1,0 +1,40 @@
+# settings
+
+(GimpGegl-gegl-vignette-config "2020-07-06 04:27:39"
+    (time 1594020459)
+    (shape circle)
+    (color (color-rgba 0 0 0 1))
+    (radius 1.282)
+    (softness 0.60999999999999999)
+    (gamma 4.0700000000000003)
+    (proportion 1)
+    (squeeze -0.157)
+    (x 0.5)
+    (y 0.5)
+    (rotation 0))
+(GimpGegl-gegl-vignette-config "2020-04-06 17:44:45"
+    (time 1586205885)
+    (shape circle)
+    (color (color-rgba 0 0 0 1))
+    (radius 1.23)
+    (softness 1)
+    (gamma 0.72699999999999998)
+    (proportion 1)
+    (squeeze 0)
+    (x 0.5)
+    (y 0.5)
+    (rotation 0))
+(GimpGegl-gegl-vignette-config "vinhet"
+    (time 0)
+    (shape circle)
+    (color (color-rgba 0 0 0 1))
+    (radius 1.282)
+    (softness 0.60999999999999999)
+    (gamma 4.0700000000000003)
+    (proportion 1)
+    (squeeze -0.157)
+    (x 0.5)
+    (y 0.5)
+    (rotation 0))
+
+# end of settings

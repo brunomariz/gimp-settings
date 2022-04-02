@@ -1,0 +1,8 @@
+# GIMP gimp-foreground-select-tool options
+
+(feather yes)
+(feather-radius 11.699999999999999)
+(stroke-width 21)
+(iterations 7)
+
+# end of gimp-foreground-select-tool options

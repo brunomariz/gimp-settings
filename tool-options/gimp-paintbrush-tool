@@ -1,0 +1,21 @@
+# GIMP gimp-paintbrush-tool options
+
+(brush "2. Hardness 050")
+(dynamics "Dynamics Off")
+(gradient "FG to BG (RGB)")
+(palette "partido FODA")
+(brush-size 4)
+(brush-hardness 0.5)
+(brush-force 0.62)
+(dynamics-expanded yes)
+(fade-length 109)
+(fade-repeat truncate)
+(fade-unit percent)
+(gradient-reverse yes)
+(gradient-blend-color-space rgb-linear)
+(brush-view-type list)
+(use-smoothing yes)
+(smoothing-quality 100)
+(smoothing-factor 235.40000000000001)
+
+# end of gimp-paintbrush-tool options

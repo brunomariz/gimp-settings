@@ -1,0 +1,10 @@
+# GIMP gimp-warp-tool options
+
+(effect-size 37)
+(effect-hardness 3.7000000000000002)
+(effect-strength 67.900000000000006)
+(stroke-spacing 1)
+(stroke-periodically-rate 12.5)
+(n-animation-frames 3)
+
+# end of gimp-warp-tool options

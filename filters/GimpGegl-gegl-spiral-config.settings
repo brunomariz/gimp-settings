@@ -1,0 +1,28 @@
+# settings
+
+(GimpGegl-gegl-spiral-config "2020-10-05 14:01:55"
+    (time 1601917315)
+    (type linear)
+    (x 0.5)
+    (y 0.5)
+    (radius 100)
+    (base 2)
+    (balance 0)
+    (rotation 0)
+    (direction cw)
+    (color1 (color-rgba 0.8901960784313725 0.51764705882352946 0.8784313725490196 1))
+    (color2 (color-rgba 1 1 1 1)))
+(GimpGegl-gegl-spiral-config "2020-04-22 23:09:49"
+    (time 1587607789)
+    (type linear)
+    (x 0.5)
+    (y 0.5)
+    (radius 50.172203459684724)
+    (base 2)
+    (balance 0)
+    (rotation 330.11347305957599)
+    (direction cw)
+    (color1 (color-rgba 1 1 1 1))
+    (color2 (color-rgba 0 0 0 1)))
+
+# end of settings

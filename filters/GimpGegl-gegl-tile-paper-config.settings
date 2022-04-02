@@ -1,0 +1,37 @@
+# settings
+
+(GimpGegl-gegl-tile-paper-config "2021-02-16 18:32:33"
+    (time 1613511153)
+    (tile-width 210)
+    (tile-height 1)
+    (move-rate 25)
+    (wrap-around no)
+    (fractional-type force)
+    (centering yes)
+    (background-type transparent)
+    (bg-color (color-rgba 1 1 1 1))
+    (seed 0))
+(GimpGegl-gegl-tile-paper-config "2020-06-07 04:05:16"
+    (time 1591513516)
+    (tile-width 5)
+    (tile-height 722)
+    (move-rate 100)
+    (wrap-around no)
+    (fractional-type force)
+    (centering yes)
+    (background-type invert)
+    (bg-color (color-rgba 0 0 0 1))
+    (seed 0))
+(GimpGegl-gegl-tile-paper-config "2020-06-07 04:04:04"
+    (time 1591513444)
+    (tile-width 6)
+    (tile-height 409)
+    (move-rate 100)
+    (wrap-around no)
+    (fractional-type force)
+    (centering yes)
+    (background-type invert)
+    (bg-color (color-rgba 0 0 0 1))
+    (seed 0))
+
+# end of settings

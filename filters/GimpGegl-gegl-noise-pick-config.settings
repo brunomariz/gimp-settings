@@ -1,0 +1,19 @@
+# settings
+
+(GimpGegl-gegl-noise-pick-config "2020-10-27 01:44:09"
+    (time 1603773849)
+    (pct-random 50)
+    (repeat 1)
+    (seed 0))
+(GimpGegl-gegl-noise-pick-config "2020-06-15 17:37:47"
+    (time 1592253467)
+    (pct-random 50)
+    (repeat 6)
+    (seed 0))
+(GimpGegl-gegl-noise-pick-config "2020-06-15 17:37:43"
+    (time 1592253463)
+    (pct-random 35.469999999999999)
+    (repeat 5)
+    (seed 0))
+
+# end of settings

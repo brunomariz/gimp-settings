@@ -1,0 +1,15 @@
+# GIMP gimp-clone-tool options
+
+(brush "2. Hardness 050")
+(dynamics "Dynamics Off")
+(pattern "Clipboard Image")
+(palette "partido FODA")
+(brush-size 4)
+(brush-hardness 0.5)
+(brush-force 0.62)
+(dynamics-expanded yes)
+(fade-length 109)
+(fade-repeat truncate)
+(fade-unit percent)
+
+# end of gimp-clone-tool options

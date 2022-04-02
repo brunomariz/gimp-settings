@@ -1,0 +1,15 @@
+# GIMP gimp-eraser-tool options
+
+(brush "2. Hardness 050")
+(dynamics "Dynamics Off")
+(palette "partido FODA")
+(brush-size 4)
+(brush-hardness 0.5)
+(brush-force 0.62)
+(dynamics-expanded yes)
+(fade-length 109)
+(fade-repeat truncate)
+(fade-unit percent)
+(gradient-reverse yes)
+
+# end of gimp-eraser-tool options
